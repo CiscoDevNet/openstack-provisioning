@@ -1,4 +1,4 @@
-# Provisioning a new tenant in Onepstack 
+# Provisioning a new tenant in Openstack 
 ## Overview
 
 Cisco Intersight Service for HashiCorp Terraform (IST) addresses the challenge of securely connecting and configuring on-premises and hybrid environments to work with Terraform Cloud Business Tier. Leveraging Intersight Assist, users can integrate Terraform Cloud Business with Cisco Intersight, enabling secure communication between on-premises data centers and edge locations with the IaC platform. This means users can spend less time managing the end-to-end lifecycle of Terraform Cloud Agents, benefiting from native integration directly within Intersight, including upgrades and the ability to scale as demand grows.
@@ -50,7 +50,7 @@ Go to Admin/Targets/ClaimTarget and select Terraform Cloud.
 ![Variables](images/claim_tf.png)
 
 Fill the form by providing the necessary information:
- - Terraform Cloud Uswername
+ - Terraform Cloud Username
  - Terraform Cloud API Token
  - Default Terraform Cloud Organizations
  - Default managed host (comma-separated list of endpoints that the Terraform Agent will configure (e.g., github.com, amazonaws.com etc.)
