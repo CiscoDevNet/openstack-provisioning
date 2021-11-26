@@ -1,4 +1,4 @@
-{{Openstack Tenant Provisioning}}
+{Openstack Tenant Provisioning
 =====================================
 {{Provision a new openstack tenant/project with user and quotas (compute, network, storage)}
 
